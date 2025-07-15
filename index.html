@@ -1,1 +1,28 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Malla Curricular Derecho UPLA</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>Malla Curricular de Derecho - UPLA</h1>
+  </header>
+  <main id="ciclos-container"></main>
+
+  <!-- Modal -->
+  <div id="modal" class="modal hidden">
+    <div class="modal-content">
+      <span class="close" onclick="cerrarModal()">&times;</span>
+      <h2 id="curso-nombre"></h2>
+      <p><strong>Créditos:</strong> <span id="curso-creditos"></span></p>
+      <p id="curso-prereqs"></p>
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
 

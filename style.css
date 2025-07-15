@@ -41,15 +41,15 @@ h1 {
 }
 
 /* 12 tonos suaves de beige */
-.bg-1 { background-color: #f9f2e7; }
-.bg-2 { background-color: #f5ebd8; }
-.bg-3 { background-color: #f3e6d3; }
-.bg-4 { background-color: #f2e1cd; }
-.bg-5 { background-color: #f0dbc6; }
-.bg-6 { background-color: #ecceba; }
-.bg-7 { background-color: #f5dfca; }
-.bg-8 { background-color: #e7d3b8; }
-.bg-9 { background-color: #f0e4d1; }
+.bg-1  { background-color: #f9f2e7; }
+.bg-2  { background-color: #f5ebd8; }
+.bg-3  { background-color: #f3e6d3; }
+.bg-4  { background-color: #f2e1cd; }
+.bg-5  { background-color: #f0dbc6; }
+.bg-6  { background-color: #ecceba; }
+.bg-7  { background-color: #f5dfca; }
+.bg-8  { background-color: #e7d3b8; }
+.bg-9  { background-color: #f0e4d1; }
 .bg-10 { background-color: #e7d9c3; }
 .bg-11 { background-color: #faebd7; }
 .bg-12 { background-color: #f6eadf; }
@@ -84,4 +84,3 @@ h1 {
 .hidden {
   display: none;
 }
-
